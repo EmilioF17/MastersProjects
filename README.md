@@ -3,7 +3,7 @@
 ## Overview  
 This repository includes ten projects I completed while enrolled in a Master's in Data Science. Each folder in this repository includes an R or Python file, a PDF file created from the R or Python script, one or multiple data sets, and a `README.md` file. The `README.me` files explain the main purpose of each project and the requirements to run each program.  
 
-I purposely avoided updating and re-formatting my first projects because I wanted to showcase (and always remember) the progress from Project 1 to my final degree capstones. This is just the beginning of a long career in data science. 
+I purposely avoided updating and re-formatting my first projects because I wanted to showcase (and always remember) the progress from Project 1 to my final capstone projects. This is just the beginning of a long career in data science. 
 
 ## List of Projects  
 
