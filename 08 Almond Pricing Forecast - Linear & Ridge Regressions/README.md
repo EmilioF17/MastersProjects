@@ -16,8 +16,6 @@ The objective of this project is attempt to forecast almond prices utilizing a l
 
 ## **Importing Libraries and Dataset**
 
-## Libraries Used
-
 The following Python libraries were used in this project:
 
 - **pandas** – for data manipulation and analysis  
