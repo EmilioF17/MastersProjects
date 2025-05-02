@@ -1,4 +1,4 @@
-# Movie Recommender Program
+# Movie Recommender Program - Cosine Similarity
 
 ## Objective
 

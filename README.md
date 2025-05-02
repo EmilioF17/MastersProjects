@@ -7,32 +7,32 @@ I purposely avoided updating and re-formatting my first projects because I wante
 
 ## List of Projects  
 
-1.	**Weather Forecast Program:**  
-   This is a weather forecast program that takes input from the user (zip code, city name, units of measurement, etc.). Then, this program returns the weather forecast of a location that matches the user’s input.
+1.	**Weather Forecast - Python Program:**
+    This Python-based weather forecast program allows users to enter a location (ZIP code, city name, units of measurement, etc.) and receive the current weather forecast. The program fetches real-time weather data using the OpenWeatherMap API.
   	
-2.	**Forecast of Almond Production Using Linear Regression in R:**  
-   This project uses a linear regression in R that measures the relationship between California’s almond production and other variables like planted acres and precipitation levels.
+2.	**Forecast of Almond Production Using Linear Regression in R:**
+    This project uses a linear regression in R that measures the relationship between California’s almond production and other variables like planted acres and precipitation levels.
   	
-3.	**Treasury Yields and S&P 500 EDA:**  
-   This project uses several methods – from plotting histograms to running linear regressions – to measure the relationship between US Treasury Yields and the S&P 500 stock market index.
+3.	**Correlation Between Treasury Yields & the S&P 500:**
+    This project uses several methods – from plotting histograms to running linear regressions – to measure the relationship between US Treasury Yields and the S&P 500 stock market index.
   	
-4.	**Preparing Data with SQL, HTML, and API:**  
-   This project recollects data from three different sources using SQL, HTML, and APIs and merges them together.
+4.	**House Prices - Data Wrangling HTML, APIs, & CSVs:**
+    This project anlayzes and visualizes historical home prices in the United States. The data used for this project was scrapped from JSON, HTML, and CSV files. The main objective of this project was to showcase my capability to work with different types of data.
   	
-5.	**Linear Regression & Decision Tree - Train & Mushroom Data:**  
-    This project uses linear regression to measure the relationship between variables in the Train data set. Also, it attempts to classify poisonous mushrooms using a decision tree model.
+5.	**Poisonous Mushrom Data - Decision Tree Classsifier:**
+    This script analyzes a data set that contains samples of several mushroom types and their physical attributes. A Decision Tree Classifier was used to predict if a mushroom would be poisonous or not depending on its physical attributes.
   	
-6.	**Housing Prices Forecast – SARIMA:**  
-    This project utilizes a SARIMA model to forecast single-family home prices in specific regions within the United States.
+6.	**Single Family Home Price Forecast - SARIMA:**
+    This project aims to analyze the historical performance of single home values in several cities in the United States and create a model that can forecast the valuation of the same asset type in a specific city.  
+
+7.	**Movie Recommender Program - Cosine Similarity:**
+    The objective of this project is to create a movie recommender program. A movie dataset from GroupLens was utilized. This dataset includes the name, year of release, and genre(s) of thousands of movies.
    	
-7.	**Movie Recommender Program:**  
-    This project uses cosine similarity to create a movie recommender program.
+8.	**Almond Pricing Forecast - Linear & Ridge Regressions:**
+    The objective of this project is attempt to forecast almond prices utilizing a linear regression. Almond historical production & prices and US population data were obtaiend from the USDA. In addtion, the US Dollar Index data, which calculates the strength of the dollar against major currencies, was obtained from Finance Yahoo
    	
-8.	**Almond Pricing - Linear & Ridge Regressions:**  
-    This program uses linear and Ridge regressions to forecast the pricing of California almonds.
+9.	**Wine Quality Score Classifier - Random Forest Classifier and GridSearch:**
+    The objective of this project is to use historical wine quality tests data to create a model that can forecast quality scores based on wine physical attributes.
    	
-9.	**Final Milestone 2: To be determined.**  
-    *Description to be updated*
-   	
-10.	**Final Milestone 3: To be determined.**  
+10.	**Handwritten NUmbers Classification Model - Convulational Neural Network:**  
     *Description to be updated* 
