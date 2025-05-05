@@ -46,9 +46,8 @@ I purposely chose not to revise or reformat my early projects, as they reflect m
 9. **Wine Quality Score Classifier – Random Forest & GridSearch**  
    Develops a Random Forest Classifier with GridSearch optimization to predict wine quality scores based on chemical properties.
 
-10. **Handwritten Numbers Classification Model – Convolutional Neural Network**  
-   *(Description to be updated)*  
-   A deep learning model using CNNs to classify handwritten digits from the MNIST dataset.
+10. **Handwritten Numbers Classification Model – Convolutional Neural Network**
+   This project implements a Convolutional Neural Network (CNN) in TensorFlow/Keras to classify handwritten digits using the MNIST dataset. Additionally, the trained model is used to predict custom images of digits saved locally.
 
 ---
 
